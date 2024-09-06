@@ -1,2 +1,2 @@
 # khan-23
-This is a demo for Git and Git hub
+This is a demo for Git and Git hub class
